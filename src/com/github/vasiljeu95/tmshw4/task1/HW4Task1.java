@@ -31,6 +31,6 @@ public class HW4Task1 {
             System.out.println();
         }
 
-        System.out.println(maxNum);
+        System.out.println("Max = " + maxNum);
     }
 }
