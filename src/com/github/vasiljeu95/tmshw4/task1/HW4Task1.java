@@ -25,10 +25,10 @@ public class HW4Task1 {
                 if (q > maxNum) {
                     maxNum = q;
                 }
-                System.out.print(array[i][j]);
-                System.out.print(j == (array[i].length - 1) ? "" : " ");
+                //System.out.print(array[i][j]);
+                //System.out.print(j == (array[i].length - 1) ? "" : " ");
             }
-            System.out.println();
+            //System.out.println();
         }
 
         System.out.println("Max = " + maxNum);
